@@ -1,27 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="707afe83-0f89-4b48-a375-674e797b0ac7" name="Default Changelist" comment="第一次提交">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hp/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hp/config/jdbcConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hp/config/jdbcConfig2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/hp/controller/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hp/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hp/config/jdbcConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hp/config/jdbcConfig2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/hp/controller/HelloController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testMaven.iml" afterDir="false" />
+    <list default="true" id="707afe83-0f89-4b48-a375-674e797b0ac7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,8 +124,17 @@
       <updated>1577248232440</updated>
       <workItem from="1577248235223" duration="3391000" />
       <workItem from="1577263698994" duration="9008000" />
-      <workItem from="1577275859412" duration="363000" />
+      <workItem from="1577275859412" duration="1267000" />
+      <workItem from="1577277147467" duration="237000" />
     </task>
+    <task id="LOCAL-00001" summary="本地提交测试">
+      <created>1577276342435</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1577276342435</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,13 +142,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="本地提交测试" />
+    <option name="LAST_COMMIT_MESSAGE" value="本地提交测试" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="526" y="72" key="CommitChangelistDialog2" timestamp="1577275938737">
+    <state x="526" y="72" key="CommitChangelistDialog2" timestamp="1577276341877">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="526" y="72" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1577275938737" />
+    <state x="526" y="72" key="CommitChangelistDialog2/0.0.1920.1050@0.0.1920.1050" timestamp="1577276341877" />
     <state x="1151" y="232" key="FileChooserDialogImpl" timestamp="1577275871675">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
@@ -215,10 +206,10 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="416" y="77" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1577276220369" />
-    <state x="298" y="195" key="Vcs.Push.Dialog.v2" timestamp="1577276125431">
+    <state x="298" y="195" key="Vcs.Push.Dialog.v2" timestamp="1577277374387">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="298" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1577276125431" />
+    <state x="298" y="195" key="Vcs.Push.Dialog.v2/0.0.1920.1050@0.0.1920.1050" timestamp="1577277374387" />
     <state x="762" y="410" width="876" height="538" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1577264988925">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
